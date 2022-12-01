@@ -4,7 +4,7 @@
 
 In the project directory, you can run:
 
-You can also view the project at the link: [shops---efitest.herokuapp.com/shopscard](shops---efitest.herokuapp.com/shopscard)
+You can also view the project at the link: [https://shops---efitest.herokuapp.com/shopscard](https://shops---efitest.herokuapp.com/shopscard)
 
 ### `npm start`
 
